@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericklevy8a
-- 👀 I’m interested in programming languajes
-- 🌱 I’m currently learning github, Typescript, Kotlin
+- 👀 I’m interested in programming languages
+- 🌱 I’m currently learning github, Typescript, Angular, Kotlin
 - 💞️ I’m looking to collaborate on interesting proyects that involve good practices and efficient clean code.
 - 📫 I'm reached by email in ericklevy@gmail.com
 
